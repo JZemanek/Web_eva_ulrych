@@ -1,0 +1,33 @@
+#navbar{
+    background-color: rgba(94, 156, 255, 1);
+}
+
+#offcanvasNavbar{
+    background-color: rgba(94, 156, 255, 0.6);
+}
+
+#navbarList li a{
+    color: white !important;
+}
+
+#navbarList li a:hover{
+    background-color: rgb(80, 131, 212);
+}
+
+@media(min-width: 769px){
+    #logoutBtn{
+    padding-left: 900px !important;
+}
+}
+
+@media(max-width: 768px){
+    #navbarList li a{
+        margin-left: 5%;
+    }
+    #btnClose{
+        margin-left: 87%;
+    }
+    .offcanvas{
+        max-width: 250px;
+    }
+}

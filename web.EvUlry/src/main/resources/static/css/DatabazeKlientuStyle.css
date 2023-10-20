@@ -1,0 +1,21 @@
+table tr th{
+    background-color: rgba(94, 156, 255, 1)!important;
+}
+table tr td{
+    background-color: rgba(94, 156, 255, 0.4)!important;
+}
+
+table{
+    max-width: 100% !important;
+}
+
+#footer{
+    background-color: white !important;
+    padding-bottom: 2%;
+    font-weight: lighter !important;
+    max-height: 70px;
+    min-height: 70px;
+    position: absolute !important;
+    bottom: 0 ;
+    width: 100% !important;
+}

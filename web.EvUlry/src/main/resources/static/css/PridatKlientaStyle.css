@@ -1,0 +1,29 @@
+#formularContent{
+    margin-top: 5%;
+}
+
+#formular{
+    background-color: rgba(94, 156, 255, 1) !important;
+    border-radius: 15px;
+    padding: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+
+@media(min-width: 768px){
+    #footer{
+        background-color: white !important;
+        padding-bottom: 2%;
+        font-weight: lighter !important;
+        max-height: 70px;
+        min-height: 70px;
+        position: absolute !important;
+        bottom: 0 ;
+        width: 100% !important;
+    }
+    #odeslatBtnContent{
+        padding-left: 20%;
+        padding-top: 2%;
+    }
+}

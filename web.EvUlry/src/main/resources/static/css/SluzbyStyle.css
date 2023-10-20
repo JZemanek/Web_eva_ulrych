@@ -1,0 +1,68 @@
+
+#hlavniCast{
+    background-color: white;
+    margin-top: 37%;
+}
+
+#text2{
+    margin-top: 2%;
+    padding-bottom: 1.5px;
+}
+
+#cardsProblemy{
+    padding-top: 2%;
+}
+
+#carouselExample{
+    max-width: 650px;
+    max-height: 500px;
+}
+
+.carousel-inner{
+    height: 350px;
+}
+
+@media(max-width: 767px){
+    .carousel-control-next, .carousel-control-prev{
+        text-align: center;
+    }
+
+    .carousel-inner{
+        height: 200px;
+    }
+
+    #carouselExample .btn .btn-outline-light{
+        max-width: 50px !important;
+    }
+
+    h5{
+        font-size: 1.1rem !important;
+    }
+}
+@media(max-width: 375px){
+    #carouselJedna, #carouselDva, #carouselTri, #carouselCtyri, #carouselPet{
+        margin-bottom: 0px !important;
+    }
+
+    #carouselDva, #carouselTri, #carouselCtyri, #carouselPet{
+        margin-bottom: -18px !important;
+    }
+}
+@media(min-width: 376px) and (max-width: 425px){
+    #carouselJedna, #carouselDva, #carouselTri, #carouselCtyri, #carouselPet{
+        margin-bottom: 0px !important;
+    }
+
+    #carouselDva, #carouselTri, #carouselCtyri, #carouselPet{
+        margin-bottom: 0px !important;
+    }
+}
+@media(min-width: 426px) and (max-width: 767px){
+    #carouselJedna, #carouselDva, #carouselTri, #carouselCtyri, #carouselPet{
+        margin-bottom: 0px !important;
+    }
+
+    #carouselDva, #carouselTri, #carouselCtyri, #carouselPet{
+        margin-bottom: 0px !important;
+    }
+}

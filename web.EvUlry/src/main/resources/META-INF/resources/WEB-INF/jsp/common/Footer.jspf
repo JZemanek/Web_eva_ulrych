@@ -1,0 +1,11 @@
+<%@ page pageEncoding="UTF-8" %>
+<link href="/css/FooterStyle.css" rel="stylesheet" type="text/css"/>
+
+<body>
+        <footer class="text-center" id="footer">
+            <hr>
+            <p>
+                Vytvořil Jan Zemánek pro Mgr. Evu Ulrychovou
+            </p>
+        </footer>
+</body>

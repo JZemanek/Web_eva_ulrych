@@ -1,0 +1,68 @@
+#footer{
+    background-color: white !important;
+    font-weight: lighter !important;
+    margin-top: 6%;
+    max-height: 70px;
+    min-height: 70px;
+    position: relative !important;
+    bottom: 0 ;
+    width: 100% !important;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: rgba(94, 156, 255, 0.4)!important;
+}
+
+.card-header{
+    height: 29px;
+}
+
+    #odstranitBtnPoznamka{
+        height: 24px !important;
+        margin-top: -9.7% !important;
+        margin-left: 84% !important
+    }
+    
+@media(min-width: 768px){
+    #tableContent{
+        margin-left: 10% !important;
+        padding-top: 5% !important;
+    }
+    table{
+        max-width: 500px;
+    }
+
+    #tableBtnsContent{
+        margin-left: 10% !important;
+    }
+
+    #odstranitBtn{
+        margin-top: auto;
+    }
+    #upravitKlientaBtn{
+        margin-top: auto;
+    }
+    #zmenaDatumuBtn{
+        margin-top: auto;
+    }
+
+    #novaPoznamkaBtnContent{
+        margin-top: auto;
+    }
+
+    #vsechnyPoznamkyBtnContent{
+        margin-top: auto;
+    }
+
+    #odstranitBtnPoznamka{
+        height: 24px !important;
+        margin-top: -9.7% !important;
+        margin-left: 84% !important
+    }
+    
+    .card{
+        max-height: 385px;
+        overflow: hidden;
+    }
+}
+

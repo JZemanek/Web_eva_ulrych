@@ -1,0 +1,10 @@
+#footer{
+    background-color: white !important;
+    padding-bottom: 2%;
+    font-weight: lighter !important;
+    max-height: 70px;
+    min-height: 70px;
+    position: absolute !important;
+    bottom: 0 ;
+    width: 100% !important;
+}

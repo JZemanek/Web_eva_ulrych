@@ -1,0 +1,20 @@
+#uvodText{
+    text-align: right;
+    margin-right: 15%;
+    padding-top: 11%;
+}
+
+#spodniCast{
+    margin-top: 16%;
+    background-color: white;
+}
+
+#infoSloupecDruhy{
+    text-align: right;
+    font-weight: normal;
+}
+
+#infoSloupecPrvni{
+    text-align: left;
+    font-weight: normal;
+}

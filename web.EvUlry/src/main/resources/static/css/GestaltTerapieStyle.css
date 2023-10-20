@@ -1,0 +1,29 @@
+#nadpis{
+    text-align: right;
+    margin-right: 15%;
+    padding-top: 11%;
+}
+
+#spodniCast{
+    margin-top: 23%;
+    background-color: white;
+}
+
+#prvniOdstavec{
+    padding-top: 2%;
+}
+
+#odkazy a{
+    color: black;
+}
+
+#odkazy a:hover{
+    color: black;
+    text-decoration: underline;
+}
+@media(max-width: 767px){
+    #odkazy a{
+        color: black;
+        text-decoration: underline;
+    }
+}

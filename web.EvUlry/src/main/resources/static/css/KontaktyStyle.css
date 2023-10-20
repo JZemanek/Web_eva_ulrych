@@ -1,0 +1,25 @@
+#hlavniCast{
+    background-color: white !important;
+    margin-top: 37%;
+}
+
+
+#druhySloupecInfo{
+    margin-right: 15%;
+    text-align: left;
+    font-weight: normal;
+}
+
+#prvniSloupecFormular{
+    padding-left: 10%;
+    margin-left: 4%;
+    text-align: left;
+    font-weight: normal;
+}
+
+a{
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}

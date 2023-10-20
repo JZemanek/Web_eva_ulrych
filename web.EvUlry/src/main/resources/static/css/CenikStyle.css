@@ -1,0 +1,16 @@
+#hlavniCast{
+    background-color: white !important;
+    margin-top: 37%;
+}
+
+a{
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#deepsyLogo{
+    padding-top: 15%;
+    padding-left: 10%;
+}

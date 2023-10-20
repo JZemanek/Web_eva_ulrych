@@ -1,0 +1,45 @@
+
+
+#navbar{
+    background-color: rgba(59, 167, 255, 0);
+}
+
+#brandLogo{
+    max-width: 40px;
+}
+
+#brandName{
+    font-size: x-large;
+    color: white;
+}
+
+#toggler{
+   text-align: right; 
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbar-nav {
+  --bs-nav-link-color:white;
+  --bs-nav-link-hover-color: black;
+}
+
+@media(max-width: 767px){
+    #offcanvasNavbar{
+        padding-top: 6%;
+        color: white;
+        background-color: rgba(59, 167, 255, 0);
+        text-align: left;
+        padding-left: 5%;
+        max-width: 100%;
+        border: none;
+    }
+    body{
+        padding-right: 0px !important;
+    }
+    .btn-close{
+        padding-right: 50px !important;
+    }
+}
